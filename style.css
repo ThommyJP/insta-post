@@ -1,0 +1,91 @@
+body {
+	background: black;
+    margin: none;
+    padding: none;
+}
+
+.boton{
+    width: 30px;
+    height: 30px;
+    background: transparent;
+}
+
+.boton-h{
+    background: transparent;
+    height: 65px;
+}
+
+.iconos-boton-h{
+    font-size: 50px;
+    
+}
+
+.Post{
+    background-color: white;
+    margin: auto;
+    width: 480px;
+    height: 700px;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.Header{
+    margin: none;
+    padding: none;
+    display: flex;
+    justify-content: space-between;
+    justify-items: baseline;
+}
+.Post-head-i{
+    display: flex;
+    padding: none;
+    margin: 5px;
+}
+
+.Post-head-i p{
+    margin: none;
+    padding: none;
+}
+
+.Post-head-i img{
+    margin: none;
+    padding: 5px;
+    width: 50px;
+	height: 50px;
+}
+
+.Post-head-d{
+    margin: 5px;
+    padding: 5px;
+}
+
+.Imagen img{
+    height: 400px;
+    width: 470px;
+    margin: 5px;
+    padding: none;
+}
+
+.Iconos{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.iconos-boton{
+    width: 30px;
+    height: 30px;
+}
+.Iconos-izq{
+    display: flex;
+}
+
+.Likes{
+    margin: 5px;
+    padding: none;
+}
+
+.Descripcion{
+    margin: 5px;
+    padding: none
+}
